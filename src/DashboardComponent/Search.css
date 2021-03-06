@@ -1,0 +1,26 @@
+.seach{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.search__button{
+    height: 56px;
+    margin-left: 50px !important;
+}
+
+.search__request{
+    margin-left: 50px !important;
+}
+
+.seach__container{
+    margin-left: 520px;
+}
+
+.search__request__value{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.seach__error{
+    color: red;   
+}

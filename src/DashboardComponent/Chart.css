@@ -1,0 +1,15 @@
+.charts{
+    display: block;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.charts__firstrow{
+    display: flex;
+    justify-content: space-between;
+}
+
+.charts__secondrow{
+    display: flex;
+    justify-content: space-between;
+}

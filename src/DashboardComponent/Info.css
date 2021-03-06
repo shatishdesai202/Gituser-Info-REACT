@@ -1,0 +1,40 @@
+.info{
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    flex: 1;
+    margin-top: 30px;
+    
+}
+.info__card{
+    
+    width: 235px;
+}
+
+.icons {
+    height: 100px;
+    width: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+
+.info__information{
+    display: flex;
+    align-items: center;
+}
+
+.info__values{
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px!important;
+}
+
+.info__label{
+    align-items: center;
+    font-weight: bold;
+}
+
+.info__value{
+    align-items: center;
+    font-weight: 900;
+}

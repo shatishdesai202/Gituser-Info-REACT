@@ -1,0 +1,9 @@
+.user{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.MuiPaper-root {
+    overflow-y: hidden !important;
+    }

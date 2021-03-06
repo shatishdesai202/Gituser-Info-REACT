@@ -1,0 +1,36 @@
+.userInfo{
+    flex: 0.5;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
+    transition: 1s;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.userInfo__info{
+    display: flex;
+    display: flex;
+    justify-content: space-around;
+}
+
+.info--detail{
+    display: block;
+    margin-right: 300px;
+}
+
+.links{
+    margin-left: 30px;
+}
+
+.userInfo__link{
+    color: blue !important;
+}
+.userInfo__underline{
+    border: 1px solid black;
+    color: black;
+    margin-top: 5px;
+}

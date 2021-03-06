@@ -1,0 +1,30 @@
+.dashboard{
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.dashboard__info{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.userFollowers__followers{
+    display: flex;
+}
+
+.dashboard__loader{
+    height: 500px;
+    width: 500px;
+}
+
+.dashboard__main{
+    align-items: center;
+}
+
+.dashboard__loaderContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

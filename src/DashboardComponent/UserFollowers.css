@@ -1,0 +1,28 @@
+.userFollowers{
+    flex: 0.4;
+    height: 236.5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
+    transition: 1s;
+    
+}
+
+.userFollowers__card{
+    height: 236.5px;
+    overflow-x:hidden ;
+    overflow-y: auto;
+}
+.userFollowers__detail{
+    margin-left: 35px;
+}
+.userFollowers__followers{
+    margin-bottom: 30px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.userFollowers__image{
+    margin-left: 40px;
+}
